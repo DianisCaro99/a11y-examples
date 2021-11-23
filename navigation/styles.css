@@ -12,9 +12,13 @@ form {
 .button {
   margin-top: 1rem;
   padding: 0.5rem;
-  background-color: rgb(132, 132, 220);
+  background-color: rgb(97, 97, 240);
   color: white;
   border-radius: 0.7rem;
   text-align: center;
   cursor: pointer;
+}
+
+.body{
+  background-color: white;
 }
